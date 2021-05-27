@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlingPlangPlong", "PlingPlangPlong\PlingPlangPlong.csproj", "{CCB2AA21-9600-494A-B176-82783D14F3EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlingPlangPlongTest", "PlingPlangPlongTest\PlingPlangPlongTest.csproj", "{224509F3-7BAD-43B0-893C-AB7511567EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlingPlangPlongFactor", "PlingPlangPlongFactor\PlingPlangPlongFactor.csproj", "{32B0CC08-F678-4AAD-AE39-C19384BD34DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CCB2AA21-9600-494A-B176-82783D14F3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCB2AA21-9600-494A-B176-82783D14F3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCB2AA21-9600-494A-B176-82783D14F3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCB2AA21-9600-494A-B176-82783D14F3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224509F3-7BAD-43B0-893C-AB7511567EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224509F3-7BAD-43B0-893C-AB7511567EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224509F3-7BAD-43B0-893C-AB7511567EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224509F3-7BAD-43B0-893C-AB7511567EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B0CC08-F678-4AAD-AE39-C19384BD34DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B0CC08-F678-4AAD-AE39-C19384BD34DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B0CC08-F678-4AAD-AE39-C19384BD34DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B0CC08-F678-4AAD-AE39-C19384BD34DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
